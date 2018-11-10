@@ -1,7 +1,7 @@
 import turtle
 #import sys
 wn = turtle.Screen()
-wn.bgcolor('purple')
+wn.bgcolor('red')
 size = wn.numinput('Size','How big would you like to go?')
 #sys.getrecursionlimit()
 
