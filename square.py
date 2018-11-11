@@ -1,7 +1,7 @@
 import turtle
 #import sys
 wn = turtle.Screen()
-wn.bgcolor('red')
+wn.bgcolor('green')
 size = wn.numinput('Size','How big would you like to go?')
 
 t = turtle.Turtle()
