@@ -1,13 +1,11 @@
 import turtle
 #import sys
 wn = turtle.Screen()
-wn.bgcolor('orange')
+wn.bgcolor('brown')
 size = wn.numinput('Size','How big would you like to go?')
-#sys.getrecursionlimit()
-
 
 t = turtle.Turtle()
-t.color('red')
+t.color('silver')
 t.pensize(1)
 s = 0
 
