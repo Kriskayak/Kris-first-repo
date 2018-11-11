@@ -12,4 +12,4 @@ s = 0
 while t.xcor() < size:
     t.right(89)
     t.forward (2 + s*2)
-    s = s + 2
+    s = s + 3
