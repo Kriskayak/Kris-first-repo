@@ -1,7 +1,7 @@
 import turtle
 #import sys
 wn = turtle.Screen()
-wn.bgcolor('brown')
+wn.bgcolor('red')
 size = wn.numinput('Size','How big would you like to go?')
 
 t = turtle.Turtle()
@@ -12,4 +12,4 @@ s = 0
 while t.xcor() < size:
     t.right(89)
     t.forward (2 + s*2)
-    s = s + 1
+    s = s + 2
