@@ -14,4 +14,4 @@ while t.xcor() < size:
     t.forward (2 + s*2)
     s = s + 3
 
-wn.exitonclick
+wn.exitonclick()
