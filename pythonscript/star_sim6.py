@@ -7,7 +7,7 @@ Created on Thu Jan 10 22:01:28 2019
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib import animation
-#import robust as rb
+#import robust as rb--not needed
 
 num_pixels = 2048 #per axis
 star_photons = 3000. #entering aperature/second
