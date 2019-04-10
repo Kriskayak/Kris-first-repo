@@ -5,7 +5,7 @@ wn.bgcolor('green')
 size = wn.numinput('Size','How big would you like to go?')
 
 t = turtle.Turtle()
-t.color('silver')
+t.color('silver') #another comment 0409
 t.pensize(1)
 s = 0
 
