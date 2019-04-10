@@ -11,7 +11,7 @@ s = 0
 
 while t.xcor() < size:
     t.right(89)
-    t.forward (2 + s*2)  #comment 0409
+    t.forward (2 + s*2)  #comment agin 0409
     s = s + 2
 
 wn.exitonclick()
