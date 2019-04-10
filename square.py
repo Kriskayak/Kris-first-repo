@@ -6,7 +6,7 @@ size = wn.numinput('Size','How big would you like to go?')
 
 t = turtle.Turtle()
 t.color('silver') #another foolish comment 0409
-t.pensize(1)
+t.pensize(1) #comment
 s = 0
 
 while t.xcor() < size:
